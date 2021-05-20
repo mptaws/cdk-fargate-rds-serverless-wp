@@ -6,7 +6,7 @@ import { CdkWordpressMptSolutionsStack } from '../lib/cdk-wordpress-mpt-solution
 const app = new cdk.App();
 new CdkWordpressMptSolutionsStack(app, 'CdkWordpressMptSolutionsStack', {
   env: {
-    account: "424156232756",
+    account: "",
     region: 'us-east-1'
   }
 });
