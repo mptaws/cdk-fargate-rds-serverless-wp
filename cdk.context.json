@@ -1,0 +1,14 @@
+{
+  "hosted-zone:account=424156232756:domainName=mpt.solutions:privateZone=false:region=us-east-1": {
+    "Id": "/hostedzone/Z006400611ZOUBT1Z6U53",
+    "Name": "mpt.solutions."
+  },
+  "availability-zones:account=424156232756:region=us-east-1": [
+    "us-east-1a",
+    "us-east-1b",
+    "us-east-1c",
+    "us-east-1d",
+    "us-east-1e",
+    "us-east-1f"
+  ]
+}
